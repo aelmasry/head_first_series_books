@@ -1,7 +1,7 @@
 # head_first_series_books
 
-######Head First 2D Geometry
-######Head First EJB - Kathy Sierra e Bert Bates.pdf
+<li>Head First 2D Geometry</li>
+<br>Head First EJB - Kathy Sierra e Bert Bates</br>
 ######Head First HTML5 Programming Building Web Apps with JavaScript
 ######Head First PMP 2nd Edition (2009)
 ######Head First Python
