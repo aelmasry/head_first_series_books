@@ -1,28 +1,28 @@
 # head_first_series_books
 
 <li>Head First 2D Geometry</li>
-<br>Head First EJB - Kathy Sierra e Bert Bates</br>
-######Head First HTML5 Programming Building Web Apps with JavaScript
-######Head First PMP 2nd Edition (2009)
-######Head First Python
-######Head First Rails
-######Head First jQuery
-######Head first C (full 2012)
-######Head-First-Java-2nd-edition
-######Head.First.Data.Analysis.Aug.2009
-######Head.First.Object.Oriented.Analysis.and.Design
-######Head_First_Ajax
-######Head_First_CSharp
-######Head_First_Design_Patterns
-######Head_First_Networking
-######Head_First_PHP_and_MySQL
-######Head_First_SQL_Your_Brain_on_SQL_A_Learners_Guide
-######Head_First_WordPress
-######Head_Rush_Ajax
-######O'reilly Programming the Mobile Web
-######OReilly.Head.First.HTMLwithCSSXHTML
-######OReilly.Head.First.Servlets.and.JSP.2nd.Edition
-######OReilly.Head.First.Web.Design
-######Oreilly.Head.First.JavaScript
-######Oreilly.Head.First.Statistics
-######Oreilly.Head.First.iPhone.and.iPad.Development.2nd.Edition
+<li>Head First EJB - Kathy Sierra e Bert Bates</li>
+<li>Head First HTML5 Programming Building Web Apps with JavaScript</li>
+<li>Head First PMP 2nd Edition (2009)</li>
+<li>Head First Python</li>
+<li>Head First Rails</li>
+<li>Head First jQuery</li>
+<li>Head first C (full 2012)</li>
+<li>Head-First-Java-2nd-edition</li>
+<li>Head.First.Data.Analysis</li>
+<li>Head.First.Object.Oriented.Analysis.and.Design</li>
+<li>Head_First_Ajax</li>
+<li>Head_First_CSharp</li>
+<li>Head_First_Design_Patterns</li>
+<li>Head_First_Networking</li>
+<li>Head_First_PHP_and_MySQL</li>
+<li>Head_First_SQL_Your_Brain_on_SQL_A_Learners_Guide</li>
+<li>Head_First_WordPress</li>
+<li>Head_Rush_Ajax</li>
+<li>O'reilly Programming the Mobile Web</li>
+<li>OReilly.Head.First.HTMLwithCSSXHTML</li>
+<li>OReilly.Head.First.Servlets.and.JSP.2nd.Edition</li>
+<li>OReilly.Head.First.Web.Design</li>
+<li>Oreilly.Head.First.JavaScript</li>
+<li>Oreilly.Head.First.Statistics</li>
+<li>Oreilly.Head.First.iPhone.and.iPad.Development.2nd.Edition</li>
